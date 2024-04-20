@@ -63,6 +63,6 @@
     "solid-js": "^1.6.11"
   },
   "peerDependencies": {
-    "klinecharts": "http://github.com/CoTMMO/KLineChart.git"
+    "klinecharts": "git+http://github.com/CoTMMO/KLineChart.git"
   }
 }
