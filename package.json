@@ -1,5 +1,5 @@
 {
-  "name": "@klinecharts/pro",
+  "name": "@klines/pro",
   "version": "0.1.1",
   "description": "Financial chart built out of the box based on KLineChart.",
   "type": "module",
@@ -63,6 +63,6 @@
     "solid-js": "^1.6.11"
   },
   "peerDependencies": {
-    "klinecharts": ">=9.0.0"
+    "klinecharts": "https://github.com/CoTMMO/KLineChart"
   }
 }
